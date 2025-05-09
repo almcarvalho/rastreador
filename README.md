@@ -1,1 +1,1 @@
-projetinho basico explicando como processar um pagamento usando MQTT, mercado pago, esp32.
+projetinho basico para explorar coordenadas geográficas, envolve um backend em node.js, um programa pro esp32 e um site em react.
